@@ -13,3 +13,6 @@ Wen are cresting our first repo! :D
 - First Item
 - Second Item
 - Third Item
+
+## Link a page
+[Spiced Academy](https://www.spiced-academy.com/en)

@@ -16,3 +16,6 @@ Wen are cresting our first repo! :D
 
 ## Link a page
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+## Image
+![Flowers](https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS4WH3Cpe1X75X4LhbHdyJo3vPEs0ufiHQhHjkqEnMjbPqViSEVI-nqF0NpeLscSR-7)

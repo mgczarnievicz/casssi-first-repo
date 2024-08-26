@@ -24,3 +24,9 @@ Wen are cresting our first repo! :D
 
 ### Internal Image
 ![Image Name](./HarryPotter/ron.png)
+
+
+## Code
+
+## Inline code
+We declare a variable `let nameCohort = "Cassia"`

@@ -30,3 +30,8 @@ Wen are cresting our first repo! :D
 
 ## Inline code
 We declare a variable `let nameCohort = "Cassia"`
+
+## Block Code
+```js
+let nameCohort = "Cassia"
+```
